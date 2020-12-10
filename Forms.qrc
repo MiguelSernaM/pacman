@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iconfinder_Pacman_Ghost_381615.png</file>
+        <file>pacman.png</file>
+    </qresource>
+</RCC>
